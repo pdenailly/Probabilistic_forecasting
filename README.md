@@ -3,7 +3,7 @@
 This repository gathers probabilistic prediction models based on recurrent neural networks found in the GluonTS and PytorchTS libraries. We have added another model based on a "sums and shares" distribution called DeepNegPol. The models can be applied to open source datasets: Pedestrians and Taxi.
 
 
-# Fonctionnement
+# How it works
 There are 7 models with different architectures to compare in this study. They are the following models: 
 |  Model   | 
 |  ----  | 
