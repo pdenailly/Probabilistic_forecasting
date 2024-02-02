@@ -3,7 +3,7 @@
 This repository gathers probabilistic prediction models based on recurrent neural networks found in the GluonTS and PytorchTS libraries. We have added another model based on a "sums and shares" distribution called DeepNegPol (inspired from the work of [Jones and Marchand (2019)](https://doi.org/10.1016/j.jmva.2018.11.011))). The models are applied to open source count datasets.
 
 
-# How it works
+# Models
 There are 8 models with different architectures to compare in this study. They are the following models: 
 |  Model   | 
 |  ----  | 
